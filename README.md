@@ -2,7 +2,6 @@
 # Periodic Table API
 This is a RESTful API for the Periodic Table of Elements.
 ## Syntax
-~~(I'll be using my website, [vikramacharya.com](https://vikramachary.com/), as an example address here, with `/api` tacked onto the end.)~~
 
 The basic syntax is:
 `https://example.com/pt.php?mode={modes}&elements={element symbols}`
